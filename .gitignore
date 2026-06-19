@@ -1,0 +1,50 @@
+# Sistema operativo
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Archivos temporales
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# Backups del editor
+*.bak
+*.orig
+
+# Logs locales
+*.log.local
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+.venv/
+env/
+
+# Node.js
+node_modules/
+npm-debug.log*
+
+# Evidencia sensible (NO subir al repo público)
+# Descomenta estas líneas si el repositorio es público:
+# ir-evidence/
+# *.evidence
+# SHA256SUMS.txt
+
+# Archivos de análisis forense local
+*.raw
+*.img
+*.vmem
+
+# Exportaciones temporales
+*.pcap
+*.pcapng
