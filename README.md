@@ -247,8 +247,6 @@ www-data             shell modificada a /bin/bash          (CORREGIDA)
 | Documento | Descripción | Páginas |
 |---|---|:---:|
 | [`Informe_IR_4geeks-server.docx`](docs/Informe_IR_4geeks-server.docx) | Informe técnico completo con 62 capturas de evidencia | 48 |
-| [`Guion_Presentacion_Ejecutiva.docx`](docs/Guion_Presentacion_Ejecutiva.docx) | Guion para presentación a audiencia directiva (sin tecnicismos) | 9 |
-| [`Guion_Tecnico_Compromiso.docx`](docs/Guion_Tecnico_Compromiso.docx) | Guion técnico enfocado en IOCs y cadena de ataque confirmada | 10 |
 | [`iocs/IOCs.md`](iocs/IOCs.md) | Listado estructurado de todos los IOCs del incidente | — |
 | [`mitre/attack_chain.md`](mitre/attack_chain.md) | Análisis detallado de cada técnica MITRE con evidencia | — |
 
